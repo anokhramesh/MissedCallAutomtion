@@ -1,4 +1,4 @@
-#include <SoftwareSerial.h>
+#include <SoftwareSerial.h>//Required SoftwareSerial library
 #include "Adafruit_FONA.h"// Required Adafruit FONA Library 
  
 #define FONA_RX            8// Connect RXD pin of Sim800 to D8 pin of arduino
